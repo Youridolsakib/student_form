@@ -1,0 +1,35 @@
+<html>
+<head>
+   <title>
+     About me 
+   </title> 
+</head>
+  <body bgcolor="orange">
+    <div>
+    <Marquee direction="left"style="color:black">
+    <h1 align="center">
+       #About My Self#
+    </h1>
+    
+    </Marquee>
+    </div>
+    <br>
+    <p>
+      <h5 style="background-color:powderblue">
+       MY NAME IS<B>MD SAKIB </B>. <br /> I AM FROM BIHAR IN <ins><em>MUZAFFARPUR</em></ins> DISTRICT.<br /> PRESENT I AM DOING DIPLOMA IN COMPUTER SCIENCE ENGINEERING IN 3RD SEM <br /> . MY HOBBY IS PLAYING FREE FIRE 🔥 ONLINE GAMES <mark> PROGRAMMING </mark>& PLAYING INDOOR GAMES LIKE AS BADMINTON, CARROM ETC... <br /> I WANT TO BECOME A <mark style="background-color: grey"> PROFESSIONAL SOFTWARE ENGINEER </mark> <br /> IT'S MY AIM AND PROFESSION . <br />
+      </h5> 
+    </p>
+    <br />
+    <div align="center">
+    
+    <img src="Mypic.jpeg"alt="My pic" height=",200px" width="200px" />
+    </div>
+    <br /> <br />
+    <div align="center">
+     <a href="https://github.com/Youridolsakib">Click on this link and go My GitHub Profile</a>
+    
+    </div>
+  </body>
+  
+
+</html>
